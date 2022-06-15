@@ -7,30 +7,33 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 
 -->
+
 ```bash
+
 Hi, I'm Andriy Tymchenko (@silpol)
 - ⚡ Fun fact: nickname @silpol is 30+ years old.
 - 📫 Best way to reach me is email.
+- 🌱 I’m currently learning frontend part for full stack programming
 
 I'm versatile and seasoned developer. Lately I worked mainly with python / Flask / uWSGI / NGINX & Postgres.
 Some Django, Redis, memcached experience and well some Devops too.
 Also, I have basic experience with HTML5/CSS3 and Javascript.
 I use Linux for work & fun many years, mainly Ubuntu / Debian flavor.
 
+```
+
       GitHub:  https://github.com/silpol
      Twitter:  https://twitter.com/silpol
     LinkedIn:  https://linkedin.com/in/silpol
          Web:  https://beacons.ai/silpol
         Blog:  <not any significant>
-
-```
 
 ![Github Stats for Andriy Tymchenko](https://github-readme-stats.vercel.app/api?username=silpol&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silpol&layout=compact&hide_border=true)
