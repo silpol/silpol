@@ -33,7 +33,7 @@ I use Linux for work & fun many years, mainly Ubuntu / Debian flavor.
      Twitter:  https://twitter.com/silpol
     LinkedIn:  https://linkedin.com/in/silpol
          Web:  https://beacons.ai/silpol
-        Blog:  <not any significant>
+    Mastodon:  https://floss.social/@silpol
 
 ![Github Stats for Andriy Tymchenko](https://github-readme-stats.vercel.app/api?username=silpol&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silpol&layout=compact&hide_border=true)
