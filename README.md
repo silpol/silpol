@@ -1,6 +1,9 @@
 ### 👋 Hi there!
 ![](https://komarev.com/ghpvc/?username=silpol&style=flat-square)
 
+
+<a href="https://floss.social/@silpol" rel="me"><img src="https://img.shields.io/mastodon/follow/109376010072838815?domain=https%3A%2F%2Ffloss.social&label=Follow%20me%20on%20Mastodon&style=social" alt="Follow me on Mastodon" /></a>
+
 <!--
 **silpol/silpol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
