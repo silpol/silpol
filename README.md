@@ -32,12 +32,12 @@ I use Linux for work & fun many years, mainly Ubuntu / Debian flavor.
 
 ```
 
-      GitHub:  https://github.com/silpol
-     Twitter:  https://twitter.com/silpol
-    LinkedIn:  https://linkedin.com/in/silpol
-         Web:  https://beacons.ai/silpol
-    Mastodon:  https://floss.social/@silpol
-
+      Mastodon:    https://floss.social/@silpol
+      Atmosphere:  https://silpol.eurosky.social
+         Web:      https://linktr.ee/silpol
+      GitHub:      https://github.com/silpol    
+    LinkedIn:      https://linkedin.com/in/silpol
+    
 ![Github Stats for Andriy Tymchenko](https://github-readme-stats.vercel.app/api?username=silpol&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silpol&layout=compact&hide_border=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=silpol&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
